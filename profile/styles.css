@@ -1,0 +1,21 @@
+
+.file-input{
+    box-sizing: border-box;
+    background-color:var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+    border-bottom: 2px solid #007bff;
+    width: 100%;
+  }
+  .file-input:active {
+    outline: none;
+    border-color: #80bdff;
+  }
+  .file-input:focus {
+    outline: none;
+    border-color: #6fa9e7;
+  }
+  .file-input:hover {
+    outline: none;
+    border-color: #0056b3; 
+  }
+  
